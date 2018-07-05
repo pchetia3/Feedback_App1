@@ -5,10 +5,10 @@ Technologies used: Django framework- Created databases to store the number of vo
 
 Follow these steps to embed the web app into any website-
 
-1.Clone or download the zip containing the web app and paste it into a folder.
-2.Open terminal/command prompt and cd into the project directory.
-3.Run the command $ python manage.py runserver on terminal to get the server running. To stop the server press control+c.
-4.Open http://localhost:8000/register/ on your browser.
-5.Register as a publisher to use the feedback app.
-6.Copy the embed/iframe link to an html document.
-7.Open the html page in your browser to access the feedback app.
+1. Clone or download the zip containing the web app and paste it into a folder.
+2. Open terminal/command prompt and cd into the project directory.
+3. Run the command $ python manage.py runserver on terminal to get the server running. To stop the server press control+c.
+4. Open http://localhost:8000/register/ on your browser.
+5. Register as a publisher to use the feedback app.
+6. Copy the embed/iframe link to an html document.
+7. Open the html page in your browser to access the feedback app.
